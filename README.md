@@ -1,6 +1,8 @@
 # Phase4-WK2-Flask Code Challenge - Super Heros
 Date Created: 01 October 2023
+
 Developer: Brian Baraza
+Contact: barazabrian87@gmail.com
 
 
 # Super Heroes App
